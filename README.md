@@ -1,4 +1,4 @@
-# HOMEMAED FOOD FOR YOU
+# HOMEMADE FOOD FOR YOU
 
 This is a "Food Marketplace" for those who want to sell food from their homes and share that sweet taste of homemade food.
 
