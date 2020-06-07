@@ -1,24 +1,14 @@
-# README
+# HOMEMAED FOOD FOR YOU
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a "Food Marketplace" for those who want to sell food from their homes and share that sweet taste of homemade food.
 
-Things you may want to cover:
+This project uses Ruby on Rails and React:
 
-* Ruby version
+* Ruby version 2.6.5
 
-* System dependencies
+* Rails 5.2.4
 
-* Configuration
+* PostgreSQL version 10
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is in its earliest stages. More information will be add as necessary.
